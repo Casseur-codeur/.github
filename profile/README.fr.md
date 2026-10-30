@@ -11,7 +11,7 @@
 
 ---
 
-Casseur-codeur, c'est deux développeurs qui construisent les outils dont ils ont envie, puis les partagent. Des projets perso, faits avec soin.
+Casseur-codeur, c'est deux potes associés qui construisent les outils dont ils ont envie, puis les partagent. Des projets perso, faits avec soin.
 
 ### Projets
 

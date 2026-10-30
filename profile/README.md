@@ -11,7 +11,7 @@
 
 ---
 
-Casseur-codeur is two developers building the tools we want for ourselves, then sharing them. Side projects, made with care.
+Casseur-codeur is two friends and partners building the tools we want for ourselves, then sharing them. Side projects, made with care.
 
 ### Projects
 
