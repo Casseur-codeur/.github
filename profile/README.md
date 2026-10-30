@@ -1,8 +1,5 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/logo-dark.svg">
-    <img src="assets/logo-light.svg" alt="casseur-codeur" width="420">
-  </picture>
+  <img src="assets/banner.svg" alt="casseur-codeur" width="560">
 </p>
 
 <p align="center"><b>We break things, then we code them back together.</b></p>
